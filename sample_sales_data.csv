@@ -1,0 +1,13 @@
+Date,Category,Product,Sales,Units
+2023-01-01,Electronics,TV,1500,5
+2023-01-01,Furniture,Sofa,1200,3
+2023-01-02,Electronics,Phone,800,10
+2023-01-02,Furniture,Table,400,8
+2023-01-03,Electronics,Laptop,2000,4
+2023-01-04,Furniture,Chair,300,12
+2023-01-05,Electronics,Tablet,600,7
+2023-01-06,Furniture,Cabinet,750,2
+2023-02-01,Electronics,TV,1600,6
+2023-02-02,Furniture,Sofa,1250,4
+2023-02-03,Electronics,Phone,850,9
+2023-02-04,Electronics,Laptop,2100,5
